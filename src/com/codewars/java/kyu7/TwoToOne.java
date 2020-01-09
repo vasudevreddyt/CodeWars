@@ -10,7 +10,7 @@ longest(a, b) -> "abcdefklmopqwxy"
 a = "abcdefghijklmnopqrstuvwxyz"
 longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 /****************************************/
-package com.codewars.java;
+package com.codewars.java.kyu7;
 
 import static org.testng.Assert.assertEquals;
 

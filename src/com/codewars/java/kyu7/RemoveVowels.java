@@ -10,7 +10,7 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 Note: for this kata y isn't considered a vowel.
 ****************************************************************************************************/
 
-package com.codewars.java;
+package com.codewars.java.kyu7;
 
 import static org.testng.Assert.assertEquals;
 

@@ -9,7 +9,7 @@ isIsogram "aba" == false
 isIsogram "moOse" == false -- ignore letter case
 *************************************************************************************************/
 
-package com.codewars.java;
+package com.codewars.java.kyu7;
 
 import static org.testng.Assert.assertEquals;
 

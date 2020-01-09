@@ -5,7 +5,7 @@ repeatStr(6, "I") // "IIIIII"
 repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 ************************************************************************************************/
 
-package com.codewars.java;
+package com.codewars.java.kyu8;
 
 import static org.testng.Assert.assertEquals;
 
